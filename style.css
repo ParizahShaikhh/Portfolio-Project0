@@ -21,7 +21,7 @@
     --box-shadow: 0 0 .6rem rgba(0, 0, 0, .2);
 }
 
-<<<<<<< HEAD
+
 body {
     display: flex;
     justify-content: center;
@@ -29,7 +29,9 @@ body {
     min-height: 100vh;
     background: var(--bg-color);
     color: var(--text-color);
-=======
+}
+
+
 /* Timeline Styling */
 .timeline {
     border-left: 3px solid #333;
@@ -50,7 +52,6 @@ transition: width 0.5s ease;
 .progress {
     background: #ddd;
     border-radius: 20px;
->>>>>>> 20894ee6af91cd1c5b1c6aa071edc340b0bd25ab
     overflow: hidden;
 }
 
