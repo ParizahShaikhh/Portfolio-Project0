@@ -256,6 +256,8 @@ transition: width 0.5s ease;
     margin-bottom: 1.2rem;
 }
 
+
+
 .workeduc-box .workeduc-content::before {
     content: "";
     position: absolute;
@@ -301,7 +303,7 @@ transition: width 0.5s ease;
     color: var(--main-color);
 }
 
-.nextprev-btn.back {
+.nextprev-btn .back {
     left: 1.5rem;
 }
 
