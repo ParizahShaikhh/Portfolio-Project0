@@ -33,6 +33,22 @@ body {
 }
 
 
+/* Timeline Styling */
+.timeline {
+    border-left: 3px solid #333;
+    padding-left: 2rem;
+}
+
+.timeline-event {
+    margin-bottom: 2rem;
+}
+
+/* Skills Section */
+.skill-bar {
+    margin: 1rem 0;
+background-color: #76c7c0;
+transition: width 0.5s ease;
+}
 
 .progress {
     background: #ddd;
